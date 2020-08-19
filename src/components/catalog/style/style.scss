@@ -1,0 +1,14 @@
+.catalog {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  justify-content: space-around;
+
+  @media screen and (max-width: 959px) {
+    .product {
+      margin-bottom: 20px;
+    }
+  }
+}

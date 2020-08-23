@@ -95,4 +95,4 @@ Todo-list написанны в 2х различных варианта:
 
 Так же проходил курсы от HTML Academy
 
-[Гитхаб](https://github.com/L1nkss).
+Мой гитхаб: [Гитхаб](https://github.com/L1nkss).
